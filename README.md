@@ -1,9 +1,10 @@
-# AudioFunctions
-Small collection of code I've used in the past to create/modify audio files for experiments.
+# MACLab Tools
+Small collection of code I've used in the past to help me with experiments / analyses
+in the MACLab at University of Iowa
 
 Right now this is still going to be a random collection of python scripts that accomplish 
 a somewhat random assortment of tasks I used during my PhD to create, modify, or otherwise
-manipulate sound files.
+manipulate sound files, design experiments, or analyze data.
 
 I'll update this Read Me as I actually find and add these scripts.
 
