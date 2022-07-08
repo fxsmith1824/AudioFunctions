@@ -9,8 +9,8 @@ manipulate sound files, design experiments, or analyze data.
 I'll update this Read Me as I actually find and add these scripts.
 
 The final goal of this project is to actually merge all of these into a single GUI
-to share with my current and former labs to ease audio processing for research assistants
-and graduate students.
+to share with my current and former labs to ease audio processing and stimuluse design
+for research assistants and graduate students.
 
 Current scripts:
 - batch_rename.py: This is a simple GUI for renaming all files with a given extension
